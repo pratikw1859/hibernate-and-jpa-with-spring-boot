@@ -1,1 +1,1 @@
-insert into course(id,name) values(10001,'JPA in 100 Steps');
+insert into course(id,name,created_date,last_modified_date) values(10001,'JPA in 100 Steps','2019-11-22T15:34:48.202','2019-11-22T15:34:48.202');
